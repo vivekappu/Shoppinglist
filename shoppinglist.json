@@ -1,0 +1,85 @@
+[
+  
+    {
+      "Serial number":"1",
+      "Name":"Hand sanitizer",
+      "Quantity":"2",
+      "Unit":"50ml",
+      "Department":"health",
+      "Notes":"Any brand"
+    },
+     
+    {
+      "Serial number":"2",
+      "Name":"Mask",
+      "Quantity":"4",
+      "Unit":"nil",
+      "Department":"Health",
+      "Notes":"get N95 mask"
+    },
+    {
+       "Serial number":"3",
+      "Name":"books",
+      "Quantity":"5",
+      "Unit":"nil",
+      "Department":"stationary",
+      "Notes":"unruled 200 pages shortnote"
+    },
+    {
+       "Serial number":"4",
+      "Name":"pen",
+      "Quantity":"1",
+      "Unit":"packet",
+      "Department":"stationary",
+      "Notes":"Reynolds gel pen"
+    },
+      {
+       "Serial number":"5",
+      "Name":"onion",
+      "Quantity":"2",
+      "Unit":"kg",
+      "Department":"Food",
+      "Notes":"Big onion"
+    },
+     
+    {
+      "Serial number":"6",
+      "Name":"crocin",
+      "Quantity":"10",
+      "Unit":"500mg",
+      "Department":"Health",
+      "Notes":"check expiry date, make sure it's 500mg"
+    },
+    {
+      "Serial number":"7",
+      "Name":"Kit kat",
+      "Quantity":"10",
+      "Unit":"pkt",
+      "Department":"Food",
+      "Notes":"10rs ones"
+      
+    },
+    {
+       "Serial number":"8",
+      "Name":"tooth paste",
+      "Quantity":"3",
+      "Unit":"gram",
+      "Department":"Health",
+      "Notes":"Colgate "
+    },{
+      "Serial number":"9",
+      "Name":"Soap",
+      "Quantity":"10",
+      "Unit":"nil",
+      "Department":"Health",
+      "Notes":"lux or liril"
+    },{
+      "Serial number":"10",
+      "Name":"Oil",
+      "Quantity":"1",
+      "Unit":"litres",
+      "Department":"food and health",
+      "Notes":"coconut oil"
+    }
+     
+  ]
